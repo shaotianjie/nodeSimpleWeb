@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-simplewebapp",
+  "version": "0.0.1",
+  "author": "shiftj",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
